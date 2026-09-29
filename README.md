@@ -130,30 +130,6 @@ The project contains 15 individual SQL exercises covering fundamental SQL operat
 14. Find executives with `VP` or `Manager` in their job title using `CONCAT()`
 15. Find orders with a total value greater than `$5,000`
 
-## 🧠 SQL Concepts Practiced
-
-This project provides practical experience with:
-
-* `SELECT`
-* `WHERE`
-* `ORDER BY`
-* `GROUP BY`
-* `HAVING`
-* `COUNT()`
-* `SUM()`
-* `AVG()`
-* `MIN()`
-* `DISTINCT`
-* `LIKE`
-* `IS NULL`
-* Subqueries
-* Aggregate functions
-* Calculated columns
-* `CONCAT()`
-* Date filtering
-* Multi-column sorting
-* Basic relational database analysis
-
 ## 🎯 Project Objective
 
 The purpose of this project is to demonstrate the ability to:
